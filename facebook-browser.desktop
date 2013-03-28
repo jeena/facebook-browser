@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.1.0
+Comment=Custom Facebook browser.
+Exec=/usr/bin/facebook-browser
+GenericName=Facebook Browser
+Icon=/usr/share/pixmaps/facebook-browser.xpm
+Name=Facebook
+NoDisplay=false
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;Qt
